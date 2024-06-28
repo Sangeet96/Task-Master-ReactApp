@@ -13,8 +13,11 @@ I'm happy to share my latest project: a React Vite task manager app deployed on 
 -> Optional Completion Hiding: Exclude finished tasks from the main view for a clutter-free experience.
 
 Some of the Important concepts i learned throughout this project are:
+
 -> Components
+
 -> Props
+
 -> Event Handling
 
 This Project is deployed using vercel and is live on the link : 
