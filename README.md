@@ -2,7 +2,7 @@
 
 I'm happy to share my latest project: a React Vite task manager app deployed on Vercel. It boasts a user-friendly interface for managing your tasks, offering features like:
 
--> Effortless Task Creation: Simply add a description and choose the initial completion status.
+-> Effortless Task Creation: Simply add a description and save the task.
 
 -> Seamless Editing: Modify existing tasks as needed, updating details and completion status.
 
